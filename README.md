@@ -9,6 +9,7 @@ Email: thackray@seas.harvard.edu
 # Citation for code
 
 A global atmospheric chemistry model for the fate and transport of PFCAs and their precursors, Environ Sci Process Impacts, 2020,  22(2):285-293 
+
 Colin P. Thackray, Noelle E. Selin, Cora J. Young   
 DOI: 10.1039/c9em00326f
 
@@ -20,4 +21,4 @@ If you find a bug, please report it to us (thackray@seas.harvard.edu) with the s
 
 # Software requirements
 
-This model is incorporated into GEOS-Chem 12.2.0 and has the same software requirements.
+This model is incorporated into the Tropchem simulation of GEOS-Chem 12.2.0 and has the same software requirements.
